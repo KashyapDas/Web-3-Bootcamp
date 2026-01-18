@@ -1,3 +1,5 @@
+// Convert the string to Base58 encryption
+
 const base58 = require("bs58").default;
 
 function encoderConversion(byteArray)
